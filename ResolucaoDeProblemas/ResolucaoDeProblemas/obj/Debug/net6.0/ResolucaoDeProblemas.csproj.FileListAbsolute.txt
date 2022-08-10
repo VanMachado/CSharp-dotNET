@@ -1,0 +1,15 @@
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\bin\Debug\net6.0\ResolucaoDeProblemas.exe
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\bin\Debug\net6.0\ResolucaoDeProblemas.deps.json
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\bin\Debug\net6.0\ResolucaoDeProblemas.runtimeconfig.json
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\bin\Debug\net6.0\ResolucaoDeProblemas.dll
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\bin\Debug\net6.0\ResolucaoDeProblemas.pdb
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.csproj.AssemblyReference.cache
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.AssemblyInfoInputs.cache
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.AssemblyInfo.cs
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.csproj.CoreCompileInputs.cache
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.dll
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\refint\ResolucaoDeProblemas.dll
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.pdb
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ResolucaoDeProblemas.genruntimeconfig.cache
+D:\workspace\C#\ResolucaoDeProblemas\ResolucaoDeProblemas\obj\Debug\net6.0\ref\ResolucaoDeProblemas.dll
