@@ -1,0 +1,15 @@
+D:\workspace\C#\TesteStruct\TesteStruct\bin\Debug\net6.0\TesteStruct.exe
+D:\workspace\C#\TesteStruct\TesteStruct\bin\Debug\net6.0\TesteStruct.deps.json
+D:\workspace\C#\TesteStruct\TesteStruct\bin\Debug\net6.0\TesteStruct.runtimeconfig.json
+D:\workspace\C#\TesteStruct\TesteStruct\bin\Debug\net6.0\TesteStruct.dll
+D:\workspace\C#\TesteStruct\TesteStruct\bin\Debug\net6.0\TesteStruct.pdb
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.csproj.AssemblyReference.cache
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.AssemblyInfoInputs.cache
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.AssemblyInfo.cs
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.csproj.CoreCompileInputs.cache
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.dll
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\refint\TesteStruct.dll
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.pdb
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\TesteStruct.genruntimeconfig.cache
+D:\workspace\C#\TesteStruct\TesteStruct\obj\Debug\net6.0\ref\TesteStruct.dll
