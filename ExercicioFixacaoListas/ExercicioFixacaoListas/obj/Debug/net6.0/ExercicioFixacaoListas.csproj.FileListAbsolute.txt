@@ -1,0 +1,15 @@
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.csproj.AssemblyReference.cache
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.AssemblyInfoInputs.cache
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.AssemblyInfo.cs
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.csproj.CoreCompileInputs.cache
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net6.0\ExercicioFixacaoListas.exe
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net6.0\ExercicioFixacaoListas.deps.json
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net6.0\ExercicioFixacaoListas.runtimeconfig.json
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net6.0\ExercicioFixacaoListas.dll
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\net6.0\ExercicioFixacaoListas.pdb
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.dll
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\refint\ExercicioFixacaoListas.dll
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.pdb
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ExercicioFixacaoListas.genruntimeconfig.cache
+D:\workspace\C#\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\net6.0\ref\ExercicioFixacaoListas.dll
