@@ -1,6 +1,6 @@
 ﻿namespace ExercicioFixacao {
     internal class Conta {
-        private int NumeroConta { get; }
+        public int NumeroConta { get; private set; }
         public string Nome { get; private set; }
         public double Saldo { get; private set; }
 

@@ -21,6 +21,7 @@
                 Console.WriteLine();
             } else {
                 depoInicial = 0.00;
+                Console.WriteLine();
             }                       
             
             Conta conta = new Conta(num, nome, depoInicial);
@@ -40,7 +41,7 @@
             saque = double.Parse(Console.ReadLine());
             conta.Saca(saque);
             Console.WriteLine("Dados da conta atualizado: ");
-            Console.WriteLine(conta);                       
+            Console.WriteLine(conta);                        
         }
     }
 }
