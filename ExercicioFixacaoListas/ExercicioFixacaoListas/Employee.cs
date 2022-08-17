@@ -1,4 +1,6 @@
-﻿namespace ExercicioFixacaoListas {
+﻿using System.Globalization;
+
+namespace ExercicioFixacaoListas {
     internal class Employee {
         public int Id { get; private set; }
         public string Name { get; private set; }
@@ -15,7 +17,7 @@
         }
 
         override public string ToString() { 
-            return Id + ", " + Name + ", " + Salary;
+            return Id + ", " + Name + ", " + Salary.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
