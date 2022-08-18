@@ -1,0 +1,15 @@
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net6.0\ExercicioFixacaoEnums.exe
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net6.0\ExercicioFixacaoEnums.deps.json
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net6.0\ExercicioFixacaoEnums.runtimeconfig.json
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net6.0\ExercicioFixacaoEnums.dll
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\bin\Debug\net6.0\ExercicioFixacaoEnums.pdb
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.csproj.AssemblyReference.cache
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.AssemblyInfoInputs.cache
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.AssemblyInfo.cs
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.csproj.CoreCompileInputs.cache
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.dll
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\refint\ExercicioFixacaoEnums.dll
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.pdb
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ExercicioFixacaoEnums.genruntimeconfig.cache
+D:\workspace\C#\ExercicioFixacaoEnums\ExercicioFixacaoEnums\obj\Debug\net6.0\ref\ExercicioFixacaoEnums.dll
