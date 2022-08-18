@@ -1,0 +1,15 @@
+D:\workspace\C#\StringBuilder\StringBuilder\bin\Debug\net6.0\TestingSB.exe
+D:\workspace\C#\StringBuilder\StringBuilder\bin\Debug\net6.0\TestingSB.deps.json
+D:\workspace\C#\StringBuilder\StringBuilder\bin\Debug\net6.0\TestingSB.runtimeconfig.json
+D:\workspace\C#\StringBuilder\StringBuilder\bin\Debug\net6.0\TestingSB.dll
+D:\workspace\C#\StringBuilder\StringBuilder\bin\Debug\net6.0\TestingSB.pdb
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.csproj.AssemblyReference.cache
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.AssemblyInfoInputs.cache
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.AssemblyInfo.cs
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.csproj.CoreCompileInputs.cache
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.dll
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\refint\TestingSB.dll
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.pdb
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\TestingSB.genruntimeconfig.cache
+D:\workspace\C#\StringBuilder\StringBuilder\obj\Debug\net6.0\ref\TestingSB.dll
