@@ -1,0 +1,15 @@
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\net6.0\ExercicioFixacaoHeranca.exe
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\net6.0\ExercicioFixacaoHeranca.deps.json
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\net6.0\ExercicioFixacaoHeranca.runtimeconfig.json
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\net6.0\ExercicioFixacaoHeranca.dll
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\bin\Debug\net6.0\ExercicioFixacaoHeranca.pdb
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.csproj.AssemblyReference.cache
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.AssemblyInfoInputs.cache
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.AssemblyInfo.cs
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.csproj.CoreCompileInputs.cache
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.dll
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\refint\ExercicioFixacaoHeranca.dll
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.pdb
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ExercicioFixacaoHeranca.genruntimeconfig.cache
+D:\workspace\C#\ExercicioFixacaoHeranca\ExercicioFixacaoHeranca\obj\Debug\net6.0\ref\ExercicioFixacaoHeranca.dll
