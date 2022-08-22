@@ -1,0 +1,15 @@
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\bin\Debug\net6.0\ExercicioFixacaoTryCatch.exe
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\bin\Debug\net6.0\ExercicioFixacaoTryCatch.deps.json
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\bin\Debug\net6.0\ExercicioFixacaoTryCatch.runtimeconfig.json
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\bin\Debug\net6.0\ExercicioFixacaoTryCatch.dll
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\bin\Debug\net6.0\ExercicioFixacaoTryCatch.pdb
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.csproj.AssemblyReference.cache
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.AssemblyInfoInputs.cache
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.AssemblyInfo.cs
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.csproj.CoreCompileInputs.cache
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.dll
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\refint\ExercicioFixacaoTryCatch.dll
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.pdb
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ExercicioFixacaoTryCatch.genruntimeconfig.cache
+D:\workspace\C#\ExercicioFixacaoTryCatch\ExercicioFixacaoTryCatch\obj\Debug\net6.0\ref\ExercicioFixacaoTryCatch.dll
